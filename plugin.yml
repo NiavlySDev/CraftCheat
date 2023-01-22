@@ -1,0 +1,12 @@
+api-version: 1.19
+name: CraftCheat
+version: 2.0
+author: NiavlyS
+main: fr.niavlys.craftcheat.CraftCheat
+commands:
+  debug:
+    description: debug command
+  reset:
+    description: reset
+  test:
+    description: testc
